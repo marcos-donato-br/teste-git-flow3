@@ -4,3 +4,6 @@ feature/f001
 feature/f001 2
 feature/f002
 feature/f002 2
+hotfix/hf001
+hotfix/hf002
+feature/f003
