@@ -7,3 +7,6 @@ feature/f002 2
 hotfix/hf001
 hotfix/hf002
 feature/f003
+feature/f004
+feature/f004 2
+feature/f005
